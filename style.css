@@ -1,0 +1,49 @@
+body{
+    background-color: #3f51b5;
+    background: url(cartoon-math-elements-background_23-2148158688.jpeg);
+    background-size: 70%;
+}
+h1{
+    color: white;
+    font-size: 40px;
+}
+.container{
+    text-align: center;
+    margin-top: 70px;
+}
+table{
+    margin: auto;
+    border-collapse: collapse;
+    row-gap: 0px;
+    column-gap: 0px;
+    background-color: black;
+}
+input{
+    font-size: 35px;
+    background-color: white;
+    height: 50px;
+}
+td .b{
+    background-color: rgba(218, 7, 7, 0.644);
+}
+button{
+    font-size: 35px;
+    color: whitesmoke;
+    background-color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 93px;
+    height: 90px;
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+.tab{
+    display: inline-block;
+     border: 2px solid white;
+}
+#cell{
+    width: 190px;
+
+}
